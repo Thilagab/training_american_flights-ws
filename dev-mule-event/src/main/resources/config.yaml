@@ -1,9 +1,0 @@
-http:
-
-  port: "8081"
-  
-sfdc:
-  username: "thil@NJC.salesforce"
-  password: "Salesforce2022"
-  token:  "bcZGAW4FpWIzIGSBQ56yLOp2D"
-
