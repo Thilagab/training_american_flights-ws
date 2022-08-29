@@ -5,3 +5,13 @@ sfdc:
   username: "thil@NJC.salesforce"
   password: "Salesforce2022"
   token: "bcZGAW4FpWIzIGSBQ56yLOp2D"
+  
+file:
+  Dir:  "D:/Student files/APDevFundamentals4.4_studentFiles_SP_27jun2022/resources"
+  
+db:
+  host: "mudb.learn.mulesoft.com"
+  port: "3306"
+  user: "mule"
+  password: "mule"
+  database: "training"
